@@ -5,7 +5,7 @@ username = input('Digite seu usuário: ')
 password = getpass.getpass('Digite sua senha: ')
 cisco = {
     'device_type': "cisco_ios",
-    'host': '10.99.1.20',
+    'host': 'x.x.x.x',
     'username': username,
     'password': password,
 }
